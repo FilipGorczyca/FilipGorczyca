@@ -12,9 +12,9 @@ Professionally, I gain experience in securities services at **Euroclear** (*New 
 I am also a **Distinction Winner** at the 5th National Business Intelligence Case Challenge (BICC), a **Finalist** in the *"Mistrz Wiedzy Ekonomicznej"* competition at SGH Warsaw School of Economics, and a member of the **Data Analysis Research Club (KNAD)**.
 
 🛠️ **Skills & Tools:**
-* **Python (Data Science & Machine Learning)
-* **Econometrics & Financial Modeling (R & Excel)
-* **Data Management (SQL)
+* Python (Data Science & Machine Learning)
+* Econometrics & Financial Modeling (R & Excel)
+* Data Management (SQL)
 
 🤝 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/filip-gorczyca/)!
 
