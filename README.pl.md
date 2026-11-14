@@ -1,0 +1,37 @@
+<div align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-Switch_language-0A66C2?style=flat-square" alt="English"></a>
+  <a href="./README.pl.md"><img src="https://img.shields.io/badge/Polski-Aktywny-dc143c?style=flat-square" alt="Polski"></a>
+</div>
+
+# Cześć, jestem Filip! 👋
+
+Witaj na moim profilu GitHub! Jestem studentem studiów magisterskich na kierunku **Analityka Gospodarcza** na **Uniwersytecie Ekonomicznym w Krakowie (UEK)** oraz stażystą w dziale **Finance & Banking w Euroclear**. Łączę wiedzę z zakresu ekonometrii, matematyki finansowej i rachunkowości zarządczej z programowaniem oraz uczeniem maszynowym.
+
+🎓 **Wykształcenie i doświadczenie:** Ukończyłem studia licencjackie z Analityki Gospodarczej na UEK, broniąc pracę z zakresu modelowania ryzyka kredytowego metodami uczenia maszynowego i ekonometrii. Doświadczenie zawodowe zdobywam w **Euroclear** (*New Issues Securities Information*) oraz podczas wcześniejszych praktyk w **Narodowym Banku Polskim (NBP)**. Jestem laureatem wyróżnienia w **V edycji konkursu Business Intelligence Case Challenge (BICC)**, finalistą ogólnopolskiego konkursu **„Mistrz Wiedzy Ekonomicznej”** w SGH w Warszawie oraz członkiem **Koła Naukowego Analizy Danych (KNAD)**.
+
+🛠️ **Umiejętności i narzędzia:**
+* **Python (Data Science & Machine Learning):** Analiza danych, inżynieria cech i modelowanie predykcyjne z wykorzystaniem bibliotek `pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `statsmodels`, `SHAP`, `Matplotlib` oraz `Seaborn`.
+* **Ekonometria i Finanse (Excel & R):** Modele zmiennych jakościowych (Logit/Probit MNW), analiza szeregów czasowych (GARCH, VAR), funkcje produkcji (Cobb-Douglas, CES) w języku **R**, a także analiza finansowa przedsiębiorstw i modelowanie portfelowe w **MS Excel**.
+* **Bazy danych (SQL):** Pobieranie, agregacja i przetwarzanie danych w relacyjnych bazach danych.
+
+🤝 **Kontakt:** Zapraszam do kontaktu przez [LinkedIn](https://www.linkedin.com/in/filip-gorczyca/)!
+
+---
+
+## 📊 Projekty Analityczne:
+
+### Projekty Python
+* [Wykorzystanie metod uczenia maszynowego oraz ekonometrii w modelowaniu ryzyka kredytowego pożyczek P2P (LendingClub) — Praca licencjacka](https://github.com/FilipGorczyca/p2p-credit-risk-ml-lendingclub-Python)
+* [System identyfikacji reżimów zmienności i alokacji kapitału w metale szlachetne (Wyróżnienie w V edycji BICC)](https://github.com/FilipGorczyca/polycrisis-market-stress-index-bicc-Python)
+* [Implementacja tablicowego algorytmu Simpleks (Metoda Dużej M) — Badania Operacyjne](https://github.com/FilipGorczyca/linear-programming-simplex-algorithm-Python)
+
+---
+
+### Projekty SQL
+już wkrótce!
+---
+
+### Projekty Finansowe i Ekonometryczne (Excel & R)
+* [Pomiar efektywności gospodarek Europy — funkcje produkcji Cobba-Douglasa i CES w języku R](https://github.com/FilipGorczyca/European-Economies-Production-Functions-R)
+* [Ocena kondycji finansowej przedsiębiorstwa AC S.A. (2018–2020) — analiza wskaźnikowa i finansowa w MS Excel](https://github.com/FilipGorczyca/ac-sa-financial-analysis-excel)
+
