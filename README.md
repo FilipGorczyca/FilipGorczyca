@@ -23,7 +23,7 @@ Welcome to my GitHub space! I am an **Economic Analytics** Master's student at t
 ---
 
 ### SQL Projects
-
+upcoming!
 ---
 
 ### Financial & Econometric Projects (Excel & R)
