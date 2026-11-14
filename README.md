@@ -37,7 +37,7 @@ upcoming!
 * [Measuring the Efficiency of European Economies - Cobb-Douglas & CES Production Functions in R](https://github.com/FilipGorczyca/European-Economies-Production-Functions-R)
 * [Corporate Financial Condition & Ratio Analysis of AC S.A. (2018–2020) - Excel Financial Modeling](https://github.com/FilipGorczyca/ac-sa-financial-analysis-excel)
 
-### Other Projects
+### Interactive smart-city platform - Kraków360.pl in collaboration with a software engineer
 - [Kraków 360 (Percepcja 360) - Smart City Analytical & Mapping Platform (Open Data App)](https://github.com/zephir-x/cracow360)
   - **Project Overview:** Interactive smart-city platform integrating 40 municipal open-data registers in Kraków (demographics, air quality, real estate prices, public safety, education, and green areas) to support data-driven decisions for residents, parents, and investors.
   - **My Role & Responsibilities:** Research methodology, social validation and analysis of the CAWI survey, data cleaning and ETL preprocessing of municipal datasets in Python, selection of analytical solutions and data modeling support (including quality-of-life indicators, demographic forecasts, and weighted K-Means spatial clustering), synthetic reporting, visual identity design, and final project presentation.
