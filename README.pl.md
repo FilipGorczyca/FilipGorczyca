@@ -10,9 +10,9 @@ Witaj na moim profilu GitHub! Jestem studentem studiów magisterskich na kierunk
 🎓 **Wykształcenie i doświadczenie:** Ukończyłem studia licencjackie z Analityki Gospodarczej na UEK, broniąc pracę z zakresu modelowania ryzyka kredytowego metodami uczenia maszynowego i ekonometrii. Doświadczenie zawodowe zdobywam w **Euroclear** (*New Issues Securities Information*) oraz podczas wcześniejszych praktyk w **Narodowym Banku Polskim (NBP)**. Jestem laureatem wyróżnienia w **V edycji konkursu Business Intelligence Case Challenge (BICC)**, finalistą ogólnopolskiego konkursu **„Mistrz Wiedzy Ekonomicznej”** w SGH w Warszawie oraz członkiem **Koła Naukowego Analizy Danych (KNAD)**.
 
 🛠️ **Umiejętności i narzędzia:**
-* **Python (Data Science & Machine Learning)
-* **Ekonometria i Finanse (Excel & R)
-* **Bazy danych (SQL)
+* Python (Data Science & Machine Learning)
+* Ekonometria i Finanse (Excel & R)
+* Bazy danych (SQL)
 
 🤝 **Kontakt:** Zapraszam do kontaktu przez [LinkedIn](https://www.linkedin.com/in/filip-gorczyca/)!
 
@@ -38,6 +38,6 @@ już wkrótce!
   ### Inne Projekty
 - [Kraków 360 (Percepcja 360) - Platforma analityczno-mapowa Smart City (Open Data App)](https://github.com/zephir-x/cracow360)
 - Stworzone w kolaboracji z (https://github.com/zephir-x?tab=overview&from=2026-10-01&to=2026-10-31)
-  - Opis projektu:** Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
-  - Mój zakres obowiązków:** Metodologia badań, analiza badania ankietowego CAWI, proces czyszczenia i przetwarzania danych (Python ETL), selekcja rozwiązań analitycznych oraz wsparcie w modelowaniu danych (wskaźniki jakości życia, prognozy demograficzne, grupowanie przestrzenne K-Means), opracowanie raportów syntetycznych, identyfikacja wizualna oraz przygotowanie prezentacji końcowej.
+- Opis projektu:** Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
+- Mój zakres obowiązków:** Metodologia badań, analiza badania ankietowego CAWI, proces czyszczenia i przetwarzania danych (Python ETL), selekcja rozwiązań analitycznych oraz wsparcie w modelowaniu danych (wskaźniki jakości życia, prognozy demograficzne, grupowanie przestrzenne K-Means), opracowanie raportów syntetycznych, identyfikacja wizualna oraz przygotowanie prezentacji końcowej.
 
