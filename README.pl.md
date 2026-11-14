@@ -35,3 +35,8 @@ już wkrótce!
 * [Pomiar efektywności gospodarek Europy — funkcje produkcji Cobba-Douglasa i CES w języku R](https://github.com/FilipGorczyca/European-Economies-Production-Functions-R)
 * [Ocena kondycji finansowej przedsiębiorstwa AC S.A. (2018–2020) — analiza wskaźnikowa i finansowa w MS Excel](https://github.com/FilipGorczyca/ac-sa-financial-analysis-excel)
 
+  ### Inne Projekty
+- [Kraków 360 (Percepcja 360) - Platforma analityczno-mapowa Smart City (Open Data App)](https://github.com/zephir-x/cracow360) w kolaboracji z software engineerem (https://github.com/zephir-x?tab=overview&from=2026-10-01&to=2026-10-31)
+  - Opis projektu:** Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
+  - Mój zakres obowiązków:** Metodologia badań, analiza badania ankietowego CAWI, proces czyszczenia i przetwarzania danych (Python ETL), selekcja rozwiązań analitycznych oraz wsparcie w modelowaniu danych (wskaźniki jakości życia, prognozy demograficzne, grupowanie przestrzenne K-Means), opracowanie raportów syntetycznych, identyfikacja wizualna oraz przygotowanie prezentacji końcowej.
+
