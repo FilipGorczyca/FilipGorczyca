@@ -35,7 +35,7 @@ I am also a **Distinction Winner** at the 5th National Business Intelligence Cas
 
 ---
 
-### 🏙️ Interactive Smart-City Platform - Kraków360.pl (in collaboration with a software engineer)
+### 🏙️ Interdisciplinary - Interactive Smart-City Platform - Kraków360.pl (in collaboration with a software engineer)
 - [Kraków 360 (Percepcja 360) - Smart City Analytical & Mapping Platform (Open Data App)](https://github.com/zephir-x/cracow360)
 - **Collaborator:** [zephir-x](https://github.com/zephir-x)
 - **Project Overview:** Interactive smart-city platform integrating 40 municipal open-data registers in Kraków (demographics, air quality, real estate prices, public safety, education, and green areas) to support data-driven decisions for residents, parents, and investors.
@@ -82,7 +82,7 @@ Witaj na moim profilu GitHub! Jestem studentem studiów magisterskich na kierunk
 
 ---
 
-### 🏙️ Interdisciplinary - Collaboration - Interaktywna platforma typu smart city - Kraków360.pl (we współpracy z inżynierem oprogramowania)
+### 🏙️ Interdyscyplinarne - Interaktywna platforma typu smart city - Kraków360.pl (we współpracy z inżynierem oprogramowania)
 - [Kraków 360 (Percepcja 360) - Platforma analityczno-mapowa Smart City (Open Data App)](https://github.com/zephir-x/cracow360)
 - **Współtwórca:** [zephir-x](https://github.com/zephir-x)
 - **Opis projektu:** Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
