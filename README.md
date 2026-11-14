@@ -82,7 +82,7 @@ Witaj na moim profilu GitHub! Jestem studentem studiów magisterskich na kierunk
 
 ---
 
-### 🏙️ Interaktywna platforma typu smart city - Kraków360.pl (we współpracy z inżynierem oprogramowania)
+### 🏙️ Collaboration - Interaktywna platforma typu smart city - Kraków360.pl (we współpracy z inżynierem oprogramowania)
 - [Kraków 360 (Percepcja 360) - Platforma analityczno-mapowa Smart City (Open Data App)](https://github.com/zephir-x/cracow360)
 - **Współtwórca:** [zephir-x](https://github.com/zephir-x)
 - **Opis projektu:** Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
