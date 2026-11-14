@@ -38,6 +38,6 @@ już wkrótce!
   ### Inne Projekty
 - [Kraków 360 (Percepcja 360) - Platforma analityczno-mapowa Smart City (Open Data App)](https://github.com/zephir-x/cracow360)
 - Stworzone w kolaboracji z (https://github.com/zephir-x?tab=overview&from=2026-10-01&to=2026-10-31)
-- Opis projektu:** Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
-- Mój zakres obowiązków:** Metodologia badań, analiza badania ankietowego CAWI, proces czyszczenia i przetwarzania danych (Python ETL), selekcja rozwiązań analitycznych oraz wsparcie w modelowaniu danych (wskaźniki jakości życia, prognozy demograficzne, grupowanie przestrzenne K-Means), opracowanie raportów syntetycznych, identyfikacja wizualna oraz przygotowanie prezentacji końcowej.
+- Opis projektu: Interaktywna platforma analityczno-mapowa integrująca 40 otwartych rejestrów miejskich Krakowa (demografia, jakość powietrza, ceny nieruchomości, bezpieczeństwo, edukacja i tereny zielone), wspierająca decyzje mieszkańców, rodziców oraz inwestorów.
+- Mój zakres obowiązków: Metodologia badań, analiza badania ankietowego CAWI, proces czyszczenia i przetwarzania danych (Python ETL), selekcja rozwiązań analitycznych oraz wsparcie w modelowaniu danych (wskaźniki jakości życia, prognozy demograficzne, grupowanie przestrzenne K-Means), opracowanie raportów syntetycznych, identyfikacja wizualna oraz przygotowanie prezentacji końcowej.
 
