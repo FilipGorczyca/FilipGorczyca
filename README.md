@@ -23,9 +23,9 @@ I am also a **Distinction Winner** at the 5th National Business Intelligence Cas
 ## 📊 Data Analysis & Quantitative Projects:
 
 ### Python Projects
-* [Application of Machine Learning and Econometrics in Credit Risk Modeling of P2P Loans (LendingClub) — Bachelor's Thesis](https://github.com/FilipGorczyca/p2p-credit-risk-ml-lendingclub-Python)
+* [Application of Machine Learning and Econometrics in Credit Risk Modeling of P2P Loans (LendingClub) - Bachelor's Thesis](https://github.com/FilipGorczyca/p2p-credit-risk-ml-lendingclub-Python)
 * [Volatility Regime Identification System & Precious Metals Allocation Strategy (5th BICC Distinction)](https://github.com/FilipGorczyca/polycrisis-market-stress-index-bicc-Python)
-* [Tabular Simplex Solver with Big-M Method — Operations Research](https://github.com/FilipGorczyca/linear-programming-simplex-algorithm-Python)
+* [Tabular Simplex Solver with Big-M Method - Operations Research](https://github.com/FilipGorczyca/linear-programming-simplex-algorithm-Python)
 
 ---
 
@@ -34,5 +34,5 @@ upcoming!
 ---
 
 ### Financial & Econometric Projects (Excel & R)
-* [Measuring the Efficiency of European Economies — Cobb-Douglas & CES Production Functions in R](https://github.com/FilipGorczyca/European-Economies-Production-Functions-R)
-* [Corporate Financial Condition & Ratio Analysis of AC S.A. (2018–2020) — Excel Financial Modeling](https://github.com/FilipGorczyca/ac-sa-financial-analysis-excel)
+* [Measuring the Efficiency of European Economies - Cobb-Douglas & CES Production Functions in R](https://github.com/FilipGorczyca/European-Economies-Production-Functions-R)
+* [Corporate Financial Condition & Ratio Analysis of AC S.A. (2018–2020) - Excel Financial Modeling](https://github.com/FilipGorczyca/ac-sa-financial-analysis-excel)
