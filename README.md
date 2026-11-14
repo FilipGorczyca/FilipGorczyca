@@ -1,8 +1,3 @@
-<div align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/English-Active-0A66C2?style=flat-square" alt="English"></a>
-  <a href="./README.pl.md"><img src="https://img.shields.io/badge/Polski-Przelacz_jezyk-dc143c?style=flat-square" alt="Polski"></a>
-</div>
-
 # Hi, I'm Filip! 👋
 
 Welcome to my GitHub space! I am an **Economic Analytics** Master's student at the **Krakow University of Economics (UEK)** and a **Finance & Banking Intern at Euroclear**. I combine a strong academic foundation in econometrics, corporate finance, and quantitative methods with hands-on programming to turn complex financial and economic datasets into actionable insights.
@@ -46,11 +41,6 @@ upcoming!
 <details>
 <summary><b>🇵🇱 Wersja polska (kliknij, aby rozwinąć)</b></summary>
 <br>
-<div align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/English-Switch_language-0A66C2?style=flat-square" alt="English"></a>
-  <a href="./README.pl.md"><img src="https://img.shields.io/badge/Polski-Aktywny-dc143c?style=flat-square" alt="Polski"></a>
-</div>
-
 # Cześć, jestem Filip! 👋
 
 Witaj na moim profilu GitHub! Jestem studentem studiów magisterskich na kierunku **Analityka Gospodarcza** na **Uniwersytecie Ekonomicznym w Krakowie (UEK)** oraz stażystą w dziale **Finance & Banking w Euroclear**. Łączę wiedzę z zakresu ekonometrii, matematyki finansowej i rachunkowości zarządczej z programowaniem oraz uczeniem maszynowym.
