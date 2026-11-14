@@ -10,9 +10,9 @@ Witaj na moim profilu GitHub! Jestem studentem studiów magisterskich na kierunk
 🎓 **Wykształcenie i doświadczenie:** Ukończyłem studia licencjackie z Analityki Gospodarczej na UEK, broniąc pracę z zakresu modelowania ryzyka kredytowego metodami uczenia maszynowego i ekonometrii. Doświadczenie zawodowe zdobywam w **Euroclear** (*New Issues Securities Information*) oraz podczas wcześniejszych praktyk w **Narodowym Banku Polskim (NBP)**. Jestem laureatem wyróżnienia w **V edycji konkursu Business Intelligence Case Challenge (BICC)**, finalistą ogólnopolskiego konkursu **„Mistrz Wiedzy Ekonomicznej”** w SGH w Warszawie oraz członkiem **Koła Naukowego Analizy Danych (KNAD)**.
 
 🛠️ **Umiejętności i narzędzia:**
-* **Python (Data Science & Machine Learning):** Analiza danych, inżynieria cech i modelowanie predykcyjne z wykorzystaniem bibliotek `pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `statsmodels`, `SHAP`, `Matplotlib` oraz `Seaborn`.
-* **Ekonometria i Finanse (Excel & R):** Modele zmiennych jakościowych (Logit/Probit MNW), analiza szeregów czasowych (GARCH, VAR), funkcje produkcji (Cobb-Douglas, CES) w języku **R**, a także analiza finansowa przedsiębiorstw i modelowanie portfelowe w **MS Excel**.
-* **Bazy danych (SQL):** Pobieranie, agregacja i przetwarzanie danych w relacyjnych bazach danych.
+* **Python (Data Science & Machine Learning)
+* **Ekonometria i Finanse (Excel & R)
+* **Bazy danych (SQL)
 
 🤝 **Kontakt:** Zapraszam do kontaktu przez [LinkedIn](https://www.linkedin.com/in/filip-gorczyca/)!
 
