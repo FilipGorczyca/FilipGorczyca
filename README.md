@@ -39,5 +39,6 @@ upcoming!
 
 ### Interactive smart-city platform - Kraków360.pl in collaboration with a software engineer
 - [Kraków 360 (Percepcja 360) - Smart City Analytical & Mapping Platform (Open Data App)](https://github.com/zephir-x/cracow360)
-  - **Project Overview:** Interactive smart-city platform integrating 40 municipal open-data registers in Kraków (demographics, air quality, real estate prices, public safety, education, and green areas) to support data-driven decisions for residents, parents, and investors.
-  - **My Role & Responsibilities:** Research methodology, social validation and analysis of the CAWI survey, data cleaning and ETL preprocessing of municipal datasets in Python, selection of analytical solutions and data modeling support (including quality-of-life indicators, demographic forecasts, and weighted K-Means spatial clustering), synthetic reporting, visual identity design, and final project presentation.
+- in collaboration with a software engineer (https://github.com/zephir-x?tab=overview&from=2026-10-01&to=2026-10-31)
+  - Project Overview:** Interactive smart-city platform integrating 40 municipal open-data registers in Kraków (demographics, air quality, real estate prices, public safety, education, and green areas) to support data-driven decisions for residents, parents, and investors.
+  - My Role & Responsibilities:** Research methodology, social validation and analysis of the CAWI survey, data cleaning and ETL preprocessing of municipal datasets in Python, selection of analytical solutions and data modeling support (including quality-of-life indicators, demographic forecasts, and weighted K-Means spatial clustering), synthetic reporting, visual identity design, and final project presentation.
