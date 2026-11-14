@@ -16,9 +16,9 @@ Welcome to my GitHub space! I am an **Economic Analytics** Master's student at t
 ## 📊 Data Analysis & Quantitative Projects:
 
 ### Python Projects
-* [Application of Machine Learning and Econometrics in Credit Risk Modeling of P2P Loans (LendingClub) — Bachelor's Thesis](https://github.com/FilipGorczyca/p2p-credit-risk-ml-lendingclub)
-* [Volatility Regime Identification System & Precious Metals Allocation Strategy (5th BICC Distinction)](https://github.com/FilipGorczyca/polycrisis-market-stress-index-bicc)
-* [Tabular Simplex Solver with Big-M Method — Operations Research](https://github.com/FilipGorczyca/linear-programming-simplex-algorithm-)
+* [Application of Machine Learning and Econometrics in Credit Risk Modeling of P2P Loans (LendingClub) — Bachelor's Thesis](https://github.com/FilipGorczyca/p2p-credit-risk-ml-lendingclub-Python)
+* [Volatility Regime Identification System & Precious Metals Allocation Strategy (5th BICC Distinction)](https://github.com/FilipGorczyca/polycrisis-market-stress-index-bicc-Python)
+* [Tabular Simplex Solver with Big-M Method — Operations Research](https://github.com/FilipGorczyca/linear-programming-simplex-algorithm-Python)
 
 ---
 
@@ -27,6 +27,5 @@ Welcome to my GitHub space! I am an **Economic Analytics** Master's student at t
 ---
 
 ### Financial & Econometric Projects (Excel & R)
-* [Measuring the Efficiency of European Economies — Cobb-Douglas & CES Production Functions in R](https://github.com/FilipGorczyca/european-economies-production-functions-r)
-* [Corporate Financial Condition & Ratio Analysis of AC S.A. (2018–2020) — Excel Financial Modeling](https://github.com/FilipGorczyca/ac-sa-financial-analysis-2018-2020)
-* [The Impact of Artificial Intelligence on Media & Economy — Cross-National Empirical Study (Erasmus+ BIP, Hochschule Fulda)](https://github.com/FilipGorczyca/ai-media-impact-comparative-study)
+* [Measuring the Efficiency of European Economies — Cobb-Douglas & CES Production Functions in R](https://github.com/FilipGorczyca/European-Economies-Production-Functions-R)
+* [Corporate Financial Condition & Ratio Analysis of AC S.A. (2018–2020) — Excel Financial Modeling](https://github.com/FilipGorczyca/ac-sa-financial-analysis-excel)
